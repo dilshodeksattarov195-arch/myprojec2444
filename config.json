@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfalculate",
+        "uuid": 3885960,
+        "checksum": "3whay"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
